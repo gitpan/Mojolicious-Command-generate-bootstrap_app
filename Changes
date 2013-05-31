@@ -1,4 +1,9 @@
-Revision history for Mojolicious-Command-generate-dbic_auth_model
+Revision history for Mojolicious-Command-generate-bootstrap_app
+
+0.06    2013-05-27
+        - Added jQuery to make JavaScript parts of Twitter Bootstrap work
+        - Improved migration management based on MOJO_MODE
+        - Improved configuration based on MOJO_MODE
 
 0.05    2013-05-26
         - Added application controller
